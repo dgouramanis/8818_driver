@@ -1,7 +1,4 @@
-T18 stepper driver module by TEM Products
+The goal of this project is to fit the DRV8818 circuit onto the standard 0.8" X 0.6" PCB size used in RAMPS 3D printers. Power dissipation is expected to be in the range of 2-5 watts, so a good heatsink is crucial.
 
-Based on DRV8818 documents by Texas Instruments
-
-Hardware designed to fit RAMPS shield for Arduino Mega
-
-Visit www.t18driver.wordpress.com
+Blog:
+https://hackaday.io/project/28197-drv8818-stepper-driver-module-for-3d-printers
